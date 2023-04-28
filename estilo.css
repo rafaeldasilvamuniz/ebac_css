@@ -95,11 +95,12 @@ a:hover {
 */
 h1 {
 	color: #4e4e4e;
-	font-size: 2.5em;
+	font-size: 3.0em;
+	/*text-align: center;*/
 }
 
 h2 {
-	color: #f7b600;
+	color: white;
 }
 
 h3 {
@@ -121,7 +122,36 @@ h3 {
 }
 
 
+#esportes{
+	background-color: pink ; 
+}
 
+#americano{
+	background-color: blueviolet; 
+}
 
+#NBA{
+	background-color: purple;
+}
+
+#economia{
+	background-color: green;
+}
+
+#euro{
+	background-color: darkorange;
+}
+
+#tecnologia{
+	background-color: chocolate;
+}
+
+#entretenimento{
+	background-color: darksalmon;
+}
+
+#petroleo{
+	background-color: #4e4e4e;
+}
 
 
